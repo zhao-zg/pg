@@ -25,7 +25,7 @@
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"recommend":"LIST:最新|推薦,官方頻道",
 				"codecs":"",
-				"proxy":"127.0.0.1:10072"
+				"proxy":"proxy"
 			},
 			"style": {
 				"type": "rect",
